@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "111a3b88a6d65423a94cb3ffa5de30f4",
+    "revision": "5d4304695c8b9dfe3672f84d55d78f81",
     "url": "/vk-order-app-p2/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-order-app-p2/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "d24a7fbb1719d467721e",
-    "url": "/vk-order-app-p2/static/css/main.521b324a.chunk.css"
+    "revision": "6591d6482643e5229bc4",
+    "url": "/vk-order-app-p2/static/css/main.fecd9989.chunk.css"
   },
   {
     "revision": "bee8655c5cfd1656a071",
     "url": "/vk-order-app-p2/static/js/2.e63a93c3.chunk.js"
   },
   {
-    "revision": "d24a7fbb1719d467721e",
-    "url": "/vk-order-app-p2/static/js/main.429f9c80.chunk.js"
+    "revision": "6591d6482643e5229bc4",
+    "url": "/vk-order-app-p2/static/js/main.98ea02bf.chunk.js"
   },
   {
     "revision": "dd3d0e2ba1e9a23ec6a2",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ace344ee4c19234fb3f2759e1e8769d",
     "url": "/vk-order-app-p2/static/media/01.8ace344e.jpg"
+  },
+  {
+    "revision": "c7994ceeefed6d59883c367c0e191228",
+    "url": "/vk-order-app-p2/static/media/01.c7994cee.jpg"
   },
   {
     "revision": "5901da7a1a4e137d72bcb047ad521642",
@@ -74,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a1525a57a1b44880a5ff43ad63a68ab7",
     "url": "/vk-order-app-p2/static/media/04.a1525a57.jpg"
+  },
+  {
+    "revision": "fcfa3992350e31e345d0319155e85022",
+    "url": "/vk-order-app-p2/static/media/04.fcfa3992.jpg"
   },
   {
     "revision": "e7d7ce1751a0cb8fd52cbe1d8022f799",

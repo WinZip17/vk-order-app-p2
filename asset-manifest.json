@@ -1,33 +1,33 @@
 {
   "files": {
-    "main.css": "/vk-order-app-p2/static/css/main.521b324a.chunk.css",
-    "main.js": "/vk-order-app-p2/static/js/main.429f9c80.chunk.js",
-    "main.js.map": "/vk-order-app-p2/static/js/main.429f9c80.chunk.js.map",
+    "main.css": "/vk-order-app-p2/static/css/main.fecd9989.chunk.css",
+    "main.js": "/vk-order-app-p2/static/js/main.98ea02bf.chunk.js",
+    "main.js.map": "/vk-order-app-p2/static/js/main.98ea02bf.chunk.js.map",
     "runtime-main.js": "/vk-order-app-p2/static/js/runtime-main.190cb299.js",
     "runtime-main.js.map": "/vk-order-app-p2/static/js/runtime-main.190cb299.js.map",
     "static/css/2.0624914a.chunk.css": "/vk-order-app-p2/static/css/2.0624914a.chunk.css",
     "static/js/2.e63a93c3.chunk.js": "/vk-order-app-p2/static/js/2.e63a93c3.chunk.js",
     "static/js/2.e63a93c3.chunk.js.map": "/vk-order-app-p2/static/js/2.e63a93c3.chunk.js.map",
     "index.html": "/vk-order-app-p2/index.html",
-    "precache-manifest.02f24e7c3e61df2098ca4e9455358cf5.js": "/vk-order-app-p2/precache-manifest.02f24e7c3e61df2098ca4e9455358cf5.js",
+    "precache-manifest.a9ea301c560091fa624270ad78200e43.js": "/vk-order-app-p2/precache-manifest.a9ea301c560091fa624270ad78200e43.js",
     "service-worker.js": "/vk-order-app-p2/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/vk-order-app-p2/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.521b324a.chunk.css.map": "/vk-order-app-p2/static/css/main.521b324a.chunk.css.map",
-    "static/media/01.jpg": "/vk-order-app-p2/static/media/01.8ace344e.jpg",
+    "static/css/main.fecd9989.chunk.css.map": "/vk-order-app-p2/static/css/main.fecd9989.chunk.css.map",
+    "static/media/01.jpg": "/vk-order-app-p2/static/media/01.c7994cee.jpg",
     "static/media/01.png": "/vk-order-app-p2/static/media/01.7d712c60.png",
     "static/media/02.jpg": "/vk-order-app-p2/static/media/02.d96d3163.jpg",
     "static/media/02.png": "/vk-order-app-p2/static/media/02.e7aa5226.png",
     "static/media/03.png": "/vk-order-app-p2/static/media/03.10a5883a.png",
     "static/media/03.jpg": "/vk-order-app-p2/static/media/03.cf779a17.jpg",
     "static/media/04.png": "/vk-order-app-p2/static/media/04.9d610436.png",
-    "static/media/04.jpg": "/vk-order-app-p2/static/media/04.a1525a57.jpg",
+    "static/media/04.jpg": "/vk-order-app-p2/static/media/04.fcfa3992.jpg",
     "static/media/05.jpg": "/vk-order-app-p2/static/media/05.e7d7ce17.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.190cb299.js",
     "static/css/2.0624914a.chunk.css",
     "static/js/2.e63a93c3.chunk.js",
-    "static/css/main.521b324a.chunk.css",
-    "static/js/main.429f9c80.chunk.js"
+    "static/css/main.fecd9989.chunk.css",
+    "static/js/main.98ea02bf.chunk.js"
   ]
 }
