@@ -27,14 +27,14 @@ import {
 import Сongratulation from "./components/Сongratulation";
 
 //ИД пользователя, которому отправлять заказ
-const user_id = "406782546";
+const user_id = "";
 
 //ИД привязаной кгрупы с добавленным минусом
-const group_id = "-136373028";
+const group_id = "";
 
 
 //токен из настройки группы
-const token = "22f8a93e5933e05e7238febf4ad6b3b15059ea35793a188d856bdd31424dcedc0754a8a2408e7c5ac33a8";
+const token = "";
 
 class App extends React.Component {
 
